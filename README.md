@@ -16,3 +16,23 @@
    
 ### Application of SHM 
 - [SHM techniques have been applied in bridges by installing structural health monitoring systems (SHMS) for almost 40 years and were increasingly applied in long-span bridges worldwide.](https://ascelibrary.org/doi/10.1061/%28ASCE%29ST.1943-541X.0002535#:~:text=SHM%20techniques%20have%20been%20applied%20in%20bridges%20by%20installing%20structural%20health%20monitoring%20systems%20(SHMS)%20for%20almost%2040%C2%A0years%20and%20were%20increasingly%20applied%20in%20long%2Dspan%20bridges%20worldwide%20(Brownjohn%20et%C2%A0al.%202011%3B%20Ko%20and%20Ni%202005%3B%20Nagarajaiah%20and%20Erazo%202016).)
+
+
+## Machine Learning-based SHM
+### Supervised Method
+- [Structural Damage Detection Using Supervised Nonlinear Support Vector Machine](https://www.mdpi.com/2504-477X/5/11/303)
+
+
+### Unsupervised Method
+
+### Semi-Supervised Method 
+#### 2012 
+- [Supervised learning algorithms for damage detection and long term
+bridge monitoring](https://www.researchgate.net/profile/Christian-Cremona/publication/279176380_Supervised_learning_algorithms_for_damage_detection_and_long_term_bridge_monitoring/links/5593b6bd08aed7453d468468/Supervised-learning-algorithms-for-damage-detection-and-long-term-bridge-monitoring.pdf)
+
+#### 2018
+- [Semi-supervised structural linear/nonlinear damage detection and characterization using sparse identification](https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2306)
+
+
+### Support Vector Machine 
+- [Structural Damage Detection Using Supervised Nonlinear Support Vector Machine](https://www.mdpi.com/2504-477X/5/11/303)
