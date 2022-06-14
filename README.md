@@ -20,15 +20,20 @@
 
 ## Machine Learning-based SHM
 ### Supervised Method
+#### 2012 
+- [Supervised learning algorithms for damage detection and long term
+bridge monitoring](https://www.researchgate.net/profile/Christian-Cremona/publication/279176380_Supervised_learning_algorithms_for_damage_detection_and_long_term_bridge_monitoring/links/5593b6bd08aed7453d468468/Supervised-learning-algorithms-for-damage-detection-and-long-term-bridge-monitoring.pdf)
+
+#### 2021
 - [Structural Damage Detection Using Supervised Nonlinear Support Vector Machine](https://www.mdpi.com/2504-477X/5/11/303)
 
 
 ### Unsupervised Method
+#### 2005 
+- [Unsupervised fuzzy neural networks for damage detection of structures](https://onlinelibrary.wiley.com/doi/abs/10.1002/stc.116)
 
 ### Semi-Supervised Method 
-#### 2012 
-- [Supervised learning algorithms for damage detection and long term
-bridge monitoring](https://www.researchgate.net/profile/Christian-Cremona/publication/279176380_Supervised_learning_algorithms_for_damage_detection_and_long_term_bridge_monitoring/links/5593b6bd08aed7453d468468/Supervised-learning-algorithms-for-damage-detection-and-long-term-bridge-monitoring.pdf)
+
 
 #### 2018
 - [Semi-supervised structural linear/nonlinear damage detection and characterization using sparse identification](https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2306)
@@ -36,3 +41,10 @@ bridge monitoring](https://www.researchgate.net/profile/Christian-Cremona/public
 
 ### Support Vector Machine 
 - [Structural Damage Detection Using Supervised Nonlinear Support Vector Machine](https://www.mdpi.com/2504-477X/5/11/303)
+
+
+
+## Review Papers 
+#### 2020
+- [Review of Bridge Structural Health Monitoring Aided by Big Data and Artificial Intelligence: From Condition Assessment to Damage Detection](https://ascelibrary.org/doi/10.1061/%28ASCE%29ST.1943-541X.0002535)
+-
