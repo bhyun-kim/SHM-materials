@@ -17,6 +17,13 @@
 ### Application of SHM 
 - [SHM techniques have been applied in bridges by installing structural health monitoring systems (SHMS) for almost 40 years and were increasingly applied in long-span bridges worldwide.](https://ascelibrary.org/doi/10.1061/%28ASCE%29ST.1943-541X.0002535#:~:text=SHM%20techniques%20have%20been%20applied%20in%20bridges%20by%20installing%20structural%20health%20monitoring%20systems%20(SHMS)%20for%20almost%2040%C2%A0years%20and%20were%20increasingly%20applied%20in%20long%2Dspan%20bridges%20worldwide%20(Brownjohn%20et%C2%A0al.%202011%3B%20Ko%20and%20Ni%202005%3B%20Nagarajaiah%20and%20Erazo%202016).)
 
+### Modal Feature-based SHM 
+#### Limitations 
+- Ambient uncertainties
+- Difficult to solve inverse matrix problem
+- Temperatural effect
+
+
 
 ## Machine Learning-based SHM
 ### Supervised Method
