@@ -27,17 +27,24 @@
 
 ## Machine Learning-based SHM
 ### Supervised Method
-#### 2012 
-- [Supervised learning algorithms for damage detection and long term
-bridge monitoring](https://www.researchgate.net/profile/Christian-Cremona/publication/279176380_Supervised_learning_algorithms_for_damage_detection_and_long_term_bridge_monitoring/links/5593b6bd08aed7453d468468/Supervised-learning-algorithms-for-damage-detection-and-long-term-bridge-monitoring.pdf)
 
 #### 2021
 - [Structural Damage Detection Using Supervised Nonlinear Support Vector Machine](https://www.mdpi.com/2504-477X/5/11/303)
 
 
-### Unsupervised Method
-#### 2005 
-- [Unsupervised fuzzy neural networks for damage detection of structures](https://onlinelibrary.wiley.com/doi/abs/10.1002/stc.116)
+#### 2019 
+- [Fast unsupervised learning methods for structural health monitoring with large vibration data from dense sensor networks](https://journals.sagepub.com/doi/full/10.1177/1475921719894186)
+- [Toward a general unsupervised novelty detection framework in structural health monitoring](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12812)
+
+
+#### 2012 
+- [Supervised learning algorithms for damage detection and long term
+bridge monitoring](https://www.researchgate.net/profile/Christian-Cremona/publication/279176380_Supervised_learning_algorithms_for_damage_detection_and_long_term_bridge_monitoring/links/5593b6bd08aed7453d468468/Supervised-learning-algorithms-for-damage-detection-and-long-term-bridge-monitoring.pdf)
+
+
+
+
+### [Unsupervised Method]()
 
 ### Semi-Supervised Method 
 
@@ -52,6 +59,12 @@ bridge monitoring](https://www.researchgate.net/profile/Christian-Cremona/public
 
 
 ## Review Papers 
+#### 2021 
+- [Machine learning paradigm for structural health monitoring](https://journals.sagepub.com/doi/full/10.1177/1475921720972416)
+
 #### 2020
 - [Review of Bridge Structural Health Monitoring Aided by Big Data and Artificial Intelligence: From Condition Assessment to Damage Detection](https://ascelibrary.org/doi/10.1061/%28ASCE%29ST.1943-541X.0002535)
--
+- [Damage Identification in Structural Health Monitoring: A Brief Review from its Implementation to the Use of Data-Driven Applications](https://www.mdpi.com/1424-8220/20/3/733)
+
+#### 2004 
+- [A review of structural health monitoring literature: 1996–2001](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1062.7077&rep=rep1&type=pdf)
